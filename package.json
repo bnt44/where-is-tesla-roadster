@@ -1,0 +1,19 @@
+{
+  "name": "where-is-tesla-roadster",
+  "version": "0.0.1",
+  "description": "Current position of Tesla Roadster and Starman in Space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnt44/where-is-tesla-roadster.git"
+  },
+  "author": "bnt44",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnt44/where-is-tesla-roadster/issues"
+  },
+  "homepage": "https://github.com/bnt44/where-is-tesla-roadster#readme"
+}
